@@ -22,12 +22,12 @@ Find number by minimal attempts
      ```
      conda activate game-env
      ```
- 3. From file ==game-logic.py== run ==random_predict== procedure 
+ 3. From file <mark>ame-logic.py</mark> run <mark>random_predict</mark> procedure 
 
 
 ### Check results
 
-Run file ==attempts_cheker.py== to get average attempts count
+Run file <mark>attempts_cheker.py</mark> to get average attempts count
 
 
 
