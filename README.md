@@ -6,7 +6,7 @@
 [3. Check results](.README.md#Check-results)  
 
 ### Description    
-Find number by minimal attempts
+Find number by minimal attempts. Procedure uses half-division method
 
 ### How to start up project    
  1. Restore Conda environment:
