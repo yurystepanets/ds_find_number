@@ -1,6 +1,7 @@
 import numpy as np
-
 from game_logic import random_predict
+
+# Check avarage attempts count
 def score_game(random_predict) -> int:
     count_ls = []
     random_array = np.random.randint(1, 101, size=(1000)) 
@@ -14,5 +15,4 @@ def score_game(random_predict) -> int:
 
 
 if __name__ == "__main__":
-    # RUN
     score_game(random_predict)
