@@ -9,7 +9,7 @@
 Find number by minimal attempts
 
 
-:arrow_up:[Content](.README.md#Content)
+
 
 
 ### How to start up project    
@@ -22,13 +22,13 @@ Find number by minimal attempts
      ```
      conda activate game-env
      ```
- 3. Run random_predict procedure 
+ 3. From file ==game-logic.py== run ==random_predict== procedure 
 
 
 ### Check results
 
+Run file ==attempts_cheker.py== to get average attempts count
 
 
-:arrow_up:[Content](.README.md#Content)
 
 
