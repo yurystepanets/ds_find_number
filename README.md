@@ -8,10 +8,6 @@
 ### Description    
 Find number by minimal attempts
 
-
-
-
-
 ### How to start up project    
  1. Restore Conda environment:
     ```
@@ -22,7 +18,7 @@ Find number by minimal attempts
      ```
      conda activate game-env
      ```
- 3. From file <mark>ame-logic.py</mark> run <mark>random_predict</mark> procedure 
+ 3. From file <mark>game-logic.py</mark> run <mark>random_predict</mark> procedure 
 
 
 ### Check results
